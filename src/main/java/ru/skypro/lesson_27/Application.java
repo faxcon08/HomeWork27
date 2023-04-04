@@ -5,6 +5,6 @@ public class Application {
         final String user = "postgres";
         final String password = "adminsql";
         final String url = "jdbc:postgresql://localhost:5432/skypro";
-        System.out.println("Hellow, World");
+
     }
 }
